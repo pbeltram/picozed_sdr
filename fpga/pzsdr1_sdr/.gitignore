@@ -1,0 +1,10 @@
+## pzsdr1_sdr project
+project_pzsdr1_sdr/
+## pzsdr1_sdr project
+
+#
+# git files that we don't want to ignore even it they are dot-files
+#
+!.gitignore
+!.mailmap
+

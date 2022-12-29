@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """Description of picozed_rx_test.py"""
-"""Test RX."""
+"""Test RX acquisition."""
 
 import sys
 import iio

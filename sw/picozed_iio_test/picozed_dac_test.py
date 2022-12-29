@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """Description of picozed_dac_test.py"""
-"""Test DAC in DMA in loopback."""
+"""Send DAC IQ data and acquire RX data."""
 
 import sys
 import iio

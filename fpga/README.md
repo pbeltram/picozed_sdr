@@ -12,9 +12,9 @@ make lib
 **pzsdr1_sdr**  
 ![Alt text](./pzsdr1_sdr.png?raw=true "pzsdr1_sdr")  
 FPGA design derived (functional equivalent) from Analog Pluto project.  
-  
+```  
 1. Source vivado tools `source ~/opt/Xilinx/Vivado/2020.2/settings64.sh`  
-2. cd into pzsdr1_lvds directory.  
+2. cd into pzsdr1_sdr directory.  
 3. Run: **vivado -mode batch -source pzsdr1_sdr_vivado_project.tcl**  
 4. To open the project in Vivado GUI run: **vivado project_pzsdr1_sdr/pzsdr1_sdr.xpr**  
 
